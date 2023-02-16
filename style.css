@@ -1,0 +1,57 @@
+Body {
+    text-align: center;
+}
+
+h1 {
+
+font-family: 'Halant';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 150%;
+letter-spacing: 0.005em;
+color: #000000;
+}
+
+table {
+    margin: auto;
+    width: 667px;
+    height: 704px;
+    border: 1px solid #000000;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
+    padding: 10px 20px;
+    width: 262px;
+    height: 64px;
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    font-family: 'Halant';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 150%;
+    letter-spacing: 0.005em;
+    color: #000000;
+
+
+}
+
+td {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 10px 20px;
+    width: 84px;
+    height: 36px;
+    left: 16px;
+    top: 14px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: 0.005em;
+    color: #000000;
+}
